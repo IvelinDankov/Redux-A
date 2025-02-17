@@ -9,4 +9,4 @@
 2. Switch between user login and logouts.
 3. Call again createSlice() to create new store.
 4. Create reducers and insede methods login & logout.
-5. 
+5. Ending Project. 
